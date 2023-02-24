@@ -179,14 +179,3 @@ body {
     padding: 50px;
     text-align: center;
 }
-
-.lower-bar {
-    padding: 20px;
-    font-size: 14px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    box-shadow: 0px -14px 0px 0px #00754a;
-    -webkit-box-shadow: 0px 14px 0px 0px #00754a;
-    -moz-box-shadow: 0px 14px 0px 0px #00754a;
-}
