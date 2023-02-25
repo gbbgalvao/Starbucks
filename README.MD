@@ -5,7 +5,7 @@
 
 > Próximas mudanças:
 + Alteração na fonte;
-+ <s>Criação do footer;
++ <s>Criação do footer;<s/>
 + Melhorias no footer.
 
 > Viés do projeto:
