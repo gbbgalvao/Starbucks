@@ -4,7 +4,7 @@
 > Status: em desenvolvimento.
 
 > Próximas mudanças:
-+ Alteração na fonte;
++ Alteração da fonte;
 + <strike>Criação do footer;</strike>
 + Melhorias no footer.
 
