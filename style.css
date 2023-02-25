@@ -25,7 +25,8 @@ body {
 
 .navbar-left {
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 700;
+    font-size: 15px;
 }
 
 .navbar-left,
@@ -47,15 +48,18 @@ body {
 .find-a-store {
     display: flex;
     align-items: center;
-    font-weight: 500;
+    font-weight: 700;
+    font-size: 15px;
+    margin-right: 10px;
 }
 
 .sing-in,
 .join-now {
-    font-weight: 500;
+    font-weight: 700;
+    font-size: 15px;
     border: 1px solid black;
     border-radius: 40px;
-    padding: 5px 20px 5px 20px;
+    padding: 10px 40px 10px 40px;
 }
 
 .join-now {
@@ -212,10 +216,15 @@ ul {
     color: white;
     text-transform: capitalize;
     margin-bottom: 10px;
+    margin-left: 30px;
 }
 
 .footer-col ul li:not(:last-child) {
     margin-bottom: 10px;
+}
+
+.footer-col ul li {
+    margin-left: 40px;
 }
 
 .footer-col ul li a{
@@ -231,3 +240,15 @@ ul {
 .footer-col ul li a:hover {
     color: #fbe98e;
 }
+
+/* .social-media a{
+    display: inline-flex;
+    width: 40px;
+    height: 40px;
+    background-color: #ffdd30;
+    color: white;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+} */

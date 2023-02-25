@@ -5,8 +5,8 @@
 
 > Próximas mudanças:
 + Alteração na fonte;
-+ Criação de uma barra com outros links ao final da página inicial;
-+ Criação de outras páginas completas.
++ <s>Criação do footer;
++ Melhorias no footer.
 
 > Viés do projeto:
 
