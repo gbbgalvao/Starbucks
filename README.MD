@@ -4,9 +4,10 @@
 > Status: em desenvolvimento.
 
 > Próximas mudanças:
-+ Alteração da fonte;
 + <strike>Criação do footer;</strike>
-+ Melhorias no footer.
++ <strike>Melhorias no footer;</strike>
++ Alteração da fonte;
++ Otimizações no código.
 
 > Viés do projeto:
 
