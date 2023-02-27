@@ -7,6 +7,7 @@
 + <strike>Criação do footer;</strike>
 + <strike>Melhorias no footer;</strike>
 + Alteração da fonte;
++ Correção de dimensões;
 + Otimizações no código.
 
 > Viés do projeto:
