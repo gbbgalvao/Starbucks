@@ -6,7 +6,7 @@
 > Próximas mudanças:
 + <strike>Criação do footer;</strike>
 + <strike>Melhorias no footer;</strike>
-+ Alteração da fonte;
++ <strike>Alteração da fonte;</strike>
 + Correção de dimensões;
 + Otimizações no código.
 
