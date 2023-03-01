@@ -119,6 +119,12 @@ body {
     line-height: 30px;
 }
 
+.product-container {
+    margin: 40px 0px 40px 0px;
+    align-items: center;
+    justify-content: center;
+}
+
 .product-button {
     border: 1px solid #1e3932;
     max-width: max-content;
@@ -189,7 +195,7 @@ body {
 
 .container {
     max-width: 1440px;
-    margin: 0px;
+    margin: auto;
 }
 
 .row{
